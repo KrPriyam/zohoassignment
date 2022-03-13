@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150514729041",
+    "project_id": "zohoassignment-7c742",
+    "storage_bucket": "zohoassignment-7c742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150514729041:android:9ece31c49aca7602a1b870",
+        "android_client_info": {
+          "package_name": "com.example.priyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150514729041-1b4163q9pav46d7mkthumnorijm2aua6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2ZbSCyCz_KVODKiXgZc0mq3gSx3Y7e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150514729041-1b4163q9pav46d7mkthumnorijm2aua6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
