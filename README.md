@@ -5,7 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+
 Project Title - Contact Manager App (Fullstack Application) 
+
+
 Task to be done:-
 
 1.Sign-up where the user will be allowed to enter his email_ID and password along with a secret code. This data will be validated and sent to the backend where the
@@ -34,8 +38,6 @@ snapshots of application:-
 3.contact_info page
 
 ![WhatsApp Image 2022-03-14 at 2 08 34 PM](https://user-images.githubusercontent.com/88309840/158136077-b47b0173-5b45-49c2-b061-9dfaf196e18b.jpeg)
-
-
 
 
 
