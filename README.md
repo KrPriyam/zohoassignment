@@ -35,6 +35,7 @@ snapshots of application:-
 
 
 
+
 3.contact_info page
 
 ![WhatsApp Image 2022-03-14 at 2 08 34 PM](https://user-images.githubusercontent.com/88309840/158136077-b47b0173-5b45-49c2-b061-9dfaf196e18b.jpeg)
