@@ -23,20 +23,20 @@ data will be stored in a Database.
 4. Below the contact form, the user should also see his stored contacts
 snapshots of application:-
 
-1.signup page
+1.Sign Up page
 
 ![WhatsApp Image 2022-03-14 at 2 08 34 PM (1)](https://user-images.githubusercontent.com/88309840/158135897-f045ad12-5826-47e0-97f8-3aac167deccc.jpeg)
 
 
 
-2.login page
+2.Sign In page
 
 ![WhatsApp Image 2022-03-14 at 2 04 56 PM](https://user-images.githubusercontent.com/88309840/158136029-1c1bc690-d1ce-42de-b551-06d81bc1a743.jpeg)
 
 
 
 
-3.contact_info page
+3.Contact_info page
 
 ![WhatsApp Image 2022-03-14 at 2 08 34 PM](https://user-images.githubusercontent.com/88309840/158136077-b47b0173-5b45-49c2-b061-9dfaf196e18b.jpeg)
 
